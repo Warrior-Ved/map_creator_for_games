@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+.venv/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -179,3 +180,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+exports/
+maps/.backups/
+maps/.trash/
+*.tmp
